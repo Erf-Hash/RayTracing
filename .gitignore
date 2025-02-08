@@ -111,5 +111,8 @@ tags
 .history
 .ionide
 
+#
+*.ppm
+
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,visualstudiocode,vim
 
